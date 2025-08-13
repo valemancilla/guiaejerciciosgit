@@ -14,3 +14,9 @@ El CrossFit es un programa de entrenamiento funcional de alta intensidad.
 2. Enfócate en la técnica antes de aumentar la intensidad.
 3. Escala los ejercicios según tu nivel.
 4. Mantén un ritmo constante durante el WOD.
+
+
+## Consejos
+- Escucha a tu cuerpo y no te sobreentrenes.
+- Mantén una nutrición adecuada para la intensidad.
+- Descansa lo suficiente entre sesiones. 
