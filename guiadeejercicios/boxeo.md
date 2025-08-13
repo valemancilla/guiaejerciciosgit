@@ -14,3 +14,8 @@ El boxeo es un deporte de combate que mejora la coordinación, resistencia y fue
 2. Practica golpes básicos: jab, cross, gancho.
 3. Trabaja en el saco de boxeo con técnica correcta.
 4. Incluye ejercicios de footwork y defensa.
+
+## Consejos
+- Usa vendas y guantes apropiados.
+- Mantén la guardia alta en todo momento.
+- Respira de manera controlada durante los combates. 
