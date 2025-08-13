@@ -8,3 +8,9 @@ El CrossFit es un programa de entrenamiento funcional de alta intensidad.
 - Aumenta la potencia y velocidad.
 - Mejora la agilidad y coordinación.
 - Quema muchas calorías en poco tiempo.
+
+## Instrucciones
+1. Comienza con movimientos básicos y progresivos.
+2. Enfócate en la técnica antes de aumentar la intensidad.
+3. Escala los ejercicios según tu nivel.
+4. Mantén un ritmo constante durante el WOD.
