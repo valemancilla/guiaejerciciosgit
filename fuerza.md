@@ -13,3 +13,7 @@ Los ejercicios de fuerza se enfocan en desarrollar la masa muscular y aumentar l
 2. Ejecuta 3-4 series de 8-12 repeticiones.
 3. Mantén la técnica correcta en todo momento.
 4. Descansa 1-2 minutos entre series.
+
+## Consejos
+- Respira correctamente durante el ejercicio.
+- No uses peso excesivo que comprometa la forma. 
