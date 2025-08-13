@@ -3,19 +3,19 @@
 ## Descripción✏️
 La natación es un ejercicio completo que trabaja todos los grupos musculares de manera suave.
 
-## Beneficios
+## Beneficios✅
 - Trabaja todo el cuerpo de manera equilibrada.
 - Es de bajo impacto para las articulaciones.
 - Mejora la capacidad pulmonar.
 - Quema muchas calorías.
 
-## Instrucciones
+## Instrucciones📝
 1. Comienza con estilos básicos como crol y espalda.
 2. Practica la respiración rítmica.
 3. Mantén una técnica correcta en cada brazada.
 4. Alterna entre diferentes estilos de natación.
 
-## Consejos
+## Consejos💡
 - Toma clases si eres principiante.
 - Mantén la cabeza alineada con la columna.
 - Respira de manera rítmica y constante. 
