@@ -1,3 +1,3 @@
-# Ejercicio de Natación
+# Ejercicio de Pilates
 
 
