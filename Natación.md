@@ -14,3 +14,8 @@ La natación es un ejercicio completo que trabaja todos los grupos musculares de
 2. Practica la respiración rítmica.
 3. Mantén una técnica correcta en cada brazada.
 4. Alterna entre diferentes estilos de natación.
+
+## Consejos
+- Toma clases si eres principiante.
+- Mantén la cabeza alineada con la columna.
+- Respira de manera rítmica y constante. 
