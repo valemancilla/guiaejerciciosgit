@@ -14,3 +14,8 @@ El Pilates es un método de ejercicio que fortalece el núcleo y mejora la postu
 2. Mantén el núcleo activo en todos los movimientos.
 3. Realiza movimientos lentos y controlados.
 4. Concéntrate en la precisión de cada ejercicio.
+
+## Consejos
+- Respira profundamente desde el diafragma.
+- Mantén la columna en posición neutra.
+- No aprietes los hombros hacia las orejas. 
