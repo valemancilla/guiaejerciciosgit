@@ -1,6 +1,6 @@
 # Ejercicio de CrossFit🏋️
 
-## Descripción
+## Descripción✏️
 El CrossFit es un programa de entrenamiento funcional de alta intensidad.
 
 ## Beneficios

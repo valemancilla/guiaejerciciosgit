@@ -1,6 +1,6 @@
 # Ejercicio de Flexibilidad🧎‍♀️
 
-## Descripción
+## Descripción✏️
 Los ejercicios de flexibilidad mejoran la movilidad articular y la elasticidad muscular.
 
 ## Beneficios

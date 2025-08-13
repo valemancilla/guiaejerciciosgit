@@ -1,6 +1,6 @@
 # Ejercicio de Yoga👏
 
-## Descripción
+## Descripción✏️
 El yoga es una práctica que combina posturas físicas, respiración y meditación.
 
 ## Beneficios
